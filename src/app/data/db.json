@@ -1,0 +1,39 @@
+{
+    "produtos": [
+      { 
+       "id": 1,
+       "titulo": "json-server", 
+       "url": "https://cdn.pixabay.com/photo/2023/08/04/07/22/people-8168554_1280.jpg",
+       "descriçao": "o melhor possível",
+       "preço": "135"
+     },
+      { 
+       "id": 1,
+       "titulo": "json-server", 
+       "url": "https://cdn.pixabay.com/photo/2023/08/04/07/22/people-8168554_1280.jpg",
+       "descriçao": "o melhor possível",
+       "preço": "135"
+     },
+      { 
+       "id": 1,
+       "titulo": "json-server", 
+       "url": "https://cdn.pixabay.com/photo/2023/08/04/07/22/people-8168554_1280.jpg",
+       "descriçao": "o melhor possível",
+       "preço": "135"
+     },
+      { 
+       "id": 1,
+       "titulo": "json-server", 
+       "url": "https://cdn.pixabay.com/photo/2023/08/04/07/22/people-8168554_1280.jpg",
+       "descriçao": "o melhor possível",
+       "preço": "135"
+     },
+      { 
+       "id": 1,
+       "titulo": "json-server", 
+       "url": "https://cdn.pixabay.com/photo/2023/08/04/07/22/people-8168554_1280.jpg",
+       "descriçao": "o melhor possível",
+       "preço": "135"
+     }
+    ]
+}
